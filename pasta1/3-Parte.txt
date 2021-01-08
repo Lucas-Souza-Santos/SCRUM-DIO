@@ -1,0 +1,29 @@
+Parte 3: Cerimônias do SCRUM 
+> Time Box 
+    Tempo máximo para fazer uma cerimônia ou Sprint 
+
+    Sprint = corrida, arrancada 
+    É o principal evento do scrum 
+    duranção de 1 sprint: 
+        30 dias corridas 
+> Sprint 
+    -> Composição de uma Sprint: 
+        - planejamento da Sprint
+        - Reunições Diárias (Daily Meeting)
+        - Revisão da Sprint (Review)
+        - Retrospectiva da Sprint 
+
+> planejamento da Sprint 
+    - quem participa ?
+        - PO 
+        - SM  
+    - o que fazer ?
+    - como fazer ?
+
+> Revisão da Sprint (Riview)
+    Time DEV apresenta para o PO o trabalho feito
+    
+> Retrospectiva da Sprint 
+    Reuniçaõ da equipe para Lições Aprendidas
+    Transparência 
+

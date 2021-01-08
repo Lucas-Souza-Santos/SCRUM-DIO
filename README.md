@@ -7,3 +7,5 @@ Scrum é um framework utilizado no gerenciamento ágil de projetos de software. 
 - **Fundamentos de um projeto ágil** 
 - **Conceitos e atividades essenciais para o sucesso de um projeto ágial**
 
+Tecnologia usada no curso
+- Visual Studio Code
