@@ -1,0 +1,81 @@
+> Desafios do Desenvolvimento de Software 
+
+    Objetivo de Negocio -> 
+    Requisitos -> 
+    Processo de Desenvolvimento
+        - Cocenpção
+        - Análise & Design 
+        - Desenvolvimento 
+        - Testes 
+        - Implantação
+
+(...) o Princípio de Pareto também se aplica ao Desenvolvimento
+de soffware, onde 20% das funcionalidades costumam gerar 80% ou 
+mais do benefício esperado. 
+
+> Gestão de Projetos 
+    Tradicional X Ágil
+- Tradicional(Waterfall): Só permmite que o projteto avance quando 
+uma fase está inteiramente completa. 
+
+    -> Escopo definido na fase inicial do Projeto(Preditivo)
+    -> Projeto é controlado por fases e marcos 
+    -> Cliente só vê o software funcionando na fase final do 
+    projeto 
+    -> Resistência a Mundaças
+
+- Ágil: Software construído por partes (incremetal) e cada parte 
+executa-se ciclo (iterativo)
+
+    -> Escopo definido ao longo do Projeto(Adaptativo).
+    -> Projeto é controlado por funcionalidades entregues.
+    -> Cliente pode ver parte do software funcionando na parte
+    inicial do projeto. 
+    -> Mudanaças constantes de acordo com feedback continuos
+
+Em projetos tradicionais (waterfall), você corre o risco de 
+descobrir que estva errado depois de meses. Com o scrum, você 
+descobre que estava errado em no máximo 30 dias.
+
+> O que é ser Ágial ?
+    Ágial é deferente de rápido. 
+
+    -> Rapidez(mudança) e desembaraço:
+    -> Fazer coisa complexas de forma simplies;
+    -> Equipe comprometida com os objetivos; 
+    -> Maior valor para o cliente. 
+
+    Ter capacidade de responder rapidamente a mudanças 
+
+> SCRUM 
+    -> SCRUM é um dos frameworks de gerenciamento de projeto ágeis; 
+    -> Projetos usando equipes pequenas e multidisciplinares 
+    produzem as melhores resultados.
+
+    >> Pilares 
+        -> Transparência 
+        -> Adaptação 
+        -> Inspeção 
+
+    - Conversar mais e escrever menor;
+    - Demostrar o software constantemente aos usuários e obter 
+    feedbacks constantes; 
+    -> Requisitos mudam ao longo do tempo; 
+    -> Aprender progressivamente com o uso do software.
+
+    >> Razões para adotar o SCRUM: 
+        -> Desenvolvido e entregue em partes menores (2 a 4 
+        semanas) com constante feedback dos usuários; 
+        -> Melhor gerenciamento de riscos; (Redução de incertezas)
+        -> Comprometimento, motivação e transparência da equipe. 
+        (Daily Meeting);
+        -> Maior valor para o negíco; (Priorização do backlog)
+        -> Usuários envolvidos durante todo o ciclo;
+        -> Aplicação das Lições Apredidias. (melhoria contínua)
+
+    >> Características do time SCRUM
+        -> Equipes capazes de se auto-organizarem;
+        -> As tarefas são do time e todos são responsáveis; 
+        -> Forte comprometimetno com os resultados. 
+
+
