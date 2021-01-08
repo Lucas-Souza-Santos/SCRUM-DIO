@@ -1,0 +1,32 @@
+Parte 2: Papéis e Responsabilidades de cada um do time 
+> Papéis e Responsabilidades 
+    - Product owner (PO)
+        -> Representante da área de negócios; 
+        -> PO não é um comitê
+        -> Define as funcionalidades do software(Product Backlog);
+        -> Prioriza as funcionalidades de acordo com o valor de 
+        negócio; 
+        -> Garante que o time de desenvolivimento entenda os itens 
+        do backlog no nível necessário.
+
+    - Scrum master(SM)
+        -> Garantir o uso correto do scrum; 
+        -> scrum master não é gerente de projetos;
+        -> auxilia o product owner no planejamento e estimativas 
+        do backlog; 
+        -> auxilia a equipe a remover impedimentos; 
+        -> treina o time em autogerenciamento e interdisciplinaridade. 
+
+    - Time de desenvolvimento (DEV)
+        -> Possui habilidades suficientes para desenvolver, testar,
+        criar e desenhar, ou seja, tudo que for necessário para 
+        entregar o software funcionando. 
+
+
+
+
+
+
+
+
+
