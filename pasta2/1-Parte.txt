@@ -1,0 +1,32 @@
+-> Fundamentos de um projeto ágil
+Parte 1: Papéis e Responsabilidades do Product Owner 
+> Quem é o Product Owner ?
+    O Product Owner(PO) representa o profissional que tem a visão 
+    do que será desenvolvido, as necessidades a serem atendiddas, 
+    o público que vai utilizar os serviços e os objetivos a serem 
+    alcançados. 
+   
+   * Representante da área de Negócios; 
+   * PO não é um Comitê; 
+   * Define as funcionalidades do software (Product Backlog);
+   * Prioriza as funcionalidaes de acordo com o valor do negócio;
+   * Garante que o time de desenvolvimento entenda os itens do 
+   backlog no nível necessário. 
+
+> Refining e Planning 
+    Product Backlog 
+    Sprint Backlog 
+
+> Release Planning 
+    Liberação ou lançamento de software(em inglês: release) é o 
+    lançamento de nova versão oficial de produto de software. 
+    Cada vez que um produto de software é criado ou modificado, o 
+    fabricante e seus desenvolvedores decidem sobre como distribuir 
+    ou o  novo produto ou a modificação às pessoas que o utilizam.
+
+Existem 2 tipos de Release Planning: 
+    - Release Planning de Múltiplas Squads 
+    - Release Planning de Projeto 
+
+
+
