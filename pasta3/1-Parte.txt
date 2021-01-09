@@ -1,0 +1,52 @@
+-> Conceitos 
+Parte 1: Estórias VS Tarefas 
+    Estória é um conjunto de tarefas 
+    Epico é um conjunto de Estórias
+    Tarefa é o conjunto de atividades que o time de 
+    desenvolvimento deve desempenhar para entregar a estória. 
+
+Parte 2: Critérrios de Aceite, Estimativa e Planejamento de 
+Tarefas 
+> O que é um critério de Aceite ? 
+    É uma lista de critérios que precisam ser alcançados para que 
+    a User story atenda os requisitos do usuário e seja aceita 
+    pelo product Owner. 
+
+    Os critérios de aceitação têm o objetivo de: definir limites
+    para as user stories. Ajudar o P.O. a detalhar em alto nível 
+    o que é necessário para entregar valor ao cliente. 
+
+> Estimativa e Planejametno 
+    - Planning Poker
+    - Planning Tshirt size 
+
+> Planejamento
+    - Product Backlog 
+    - Sprit Backlog 
+
+Critério de aceite: É uma lista de critérios para que a estória 
+atenda aos requisitos do cliente. 
+
+Plnaning Poker: É uma atividade de mensuração do esfoço e 
+complexidade das tarefas ou estorias 
+
+Parte 3: Relacionamento com clientes/ Stakeholders 
+> Cliente/ Stakeholder 
+    O stakeholder ú uma pessoa ou um grupo que legitima as ações 
+    de uma organização e que tem um papel direto ou indireto na 
+    gestaõ e resultados dessa mesma organização. Desta forma, um 
+    stakeholder pode ser afetado positivamente ou negativamente, 
+    dependendo das suas politicas e forma de atuação.
+
+    Alguns exemplos de stakeholder de uma empresa podem ser os 
+    seus funcionários, gestores, gerentes, proprietários, 
+    fornecedores, concorrentes, ONGs, clientes, o Estado, 
+    credores, sindicatos e diversas outras pessoas ou empresas 
+    que estejam relacionadas com uma determinada ação ou projeto. 
+    
+
+
+
+
+
+
