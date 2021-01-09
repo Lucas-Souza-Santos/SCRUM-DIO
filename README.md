@@ -2,6 +2,8 @@
 ### Curso Digital Innovation One
 ##### Professor: Thiago Sano
 
+### SCRUM
+
 Scrum é um framework utilizado no gerenciamento ágil de projetos de software.
 
 Tecnologia usada no curso
